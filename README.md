@@ -1,7 +1,7 @@
 ### 👋 Hi there, This is Wendel - AKA @W3SS :sunglasses:
 
 ## I'm a Developer, Learner and a music lover!
-- 🔭 I’m currently working as a Full Stack Developer!
+- 🔭 I’m currently working as a Software Architect!
 - 🌱 I’m currently learning System Design along with Devops and Cloud!
 - ⚡ Fun fact: I love to play the guitar and watch thriller movies/series!
 
@@ -14,7 +14,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
